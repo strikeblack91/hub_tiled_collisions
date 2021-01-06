@@ -126,3 +126,7 @@ const int collision[15][15] = {
 	{602 ,603 ,603 ,603 ,603 ,603 ,603 ,603 ,603 ,603 ,603 ,603 ,603 ,603 ,604},
 };hub_tiled_collisions
 ```
+
+## Step. 7 - Can you beat me ?
+
+[MyRPG | Epitech 2023](https://www.youtube.com/watch?v=AFMPK4B1MVs)
