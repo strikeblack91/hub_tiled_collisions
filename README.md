@@ -101,7 +101,7 @@ What is data ? Print it, you will understand.
 
 ## Step. 5 - Create C file
 
-Create a C file with write access (1 line of code).\
+Create a C file with write access, with your script (1 line of code).
 
 ## Step. 6 - Algorithm
 
