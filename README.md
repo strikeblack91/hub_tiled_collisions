@@ -72,7 +72,7 @@ Then let's use Python, which is a very easy programming language, to create the 
 
 ## Step. 1 - Open a file
 
-Create your Python script, then open your JSON file.\
+Create your Python file, then open your JSON file (from your python file) and print it on the terminal.\
 \
 [Here a full tutoriel to open files with Python](https://en.lmgtfy.com/?q=open%20file%20python)
 
